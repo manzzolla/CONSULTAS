@@ -12,6 +12,4 @@ Imprima no console o valor gasto do combustível para realizar esta viagem.
 
 */
 
-console.log('Olá')
-
-
+console.log('Olá'); 

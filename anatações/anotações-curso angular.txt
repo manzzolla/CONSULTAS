@@ -1,2 +1,10 @@
 Aula Inaugural Potência Tech
 BootCamp - Desenvolvimento Angular
+
+- Git
+- GitHub
+- Git Bash
+- JavaScript
+- CSS
+- HTML
+- Angular
